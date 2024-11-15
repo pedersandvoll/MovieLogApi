@@ -1,3 +1,4 @@
+mod routes; // Add this line
 use routes::all_routes;
 
 #[tokio::main]
